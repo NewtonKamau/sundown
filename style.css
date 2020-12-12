@@ -4,7 +4,7 @@
  * Email: info@themezy.com
  * URL: http://themezy.com
  */
-/*=========================================== 
+/*===========================================
  * Importing CSS Libraries
  *===========================================*/
 article,
@@ -569,6 +569,7 @@ table {
   margin: 0 0 30px;
   padding-left: 0;
   font-size: 13px;
+  text-decoration-color: black;
 }
 .list-arrow li {
   position: relative;
